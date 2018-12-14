@@ -1,0 +1,1 @@
+http://localhost/wsp1_linfag/blogging/index.php
